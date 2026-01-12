@@ -1,4 +1,4 @@
-// File: /Users/noemigornati/Desktop/PAYPHONE/Landing - Payphone B2C V2/app/layout.tsx
+// File: /Users/edoardoscandelli/Desktop/Progetti cursor/Landing-Payphone---B2C-V2/Landing-Payphone---B2C-V2/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
